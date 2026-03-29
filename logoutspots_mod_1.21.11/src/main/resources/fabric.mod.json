@@ -1,0 +1,17 @@
+
+{
+  "schemaVersion": 1,
+  "id": "logoutspots",
+  "version": "1.0.0",
+  "name": "Logout Spots",
+  "entrypoints": {
+    "client": [
+      "com.example.logoutspots.LogoutSpotsMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": "1.21.11"
+  }
+}
